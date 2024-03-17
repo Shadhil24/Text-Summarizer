@@ -12,3 +12,5 @@
 6. update the pipeline
 7. update the main.py
 8. update the app.py
+
+9. Colab Notebook for training is given for understanding the training and validation part
